@@ -1,0 +1,33 @@
+_repo: The-Jewish-Manualof-Valuable-Recipes--amp--Hints-Relating-to-the-Toilette_12327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montefiore, Judith Cohen, Lady
+    birthdate: 1784
+    deathdate: 1862
+    gutenberg_agent_id: '4317'
+    url: http://www.gutenberg.org/2009/agents/4317
+description: ''
+gutenberg_bookshelf:
+- Judaism
+- Cookery
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'London (England) -- Social life and customs'
+- !lcsh 'Jewish cooking'
+- !lcsh 'Beauty, Personal'
+- GITenberg
+title: 'The Jewish Manual
+
+  Practical Information in Jewish and Modern Cookery with a Collection
+
+  of Valuable Recipes & Hints Relating to the Toilette'
+url: http://www.gutenberg.org/ebooks/12327
