@@ -1,5 +1,8 @@
 _repo: The-Jewish-Manualof-Valuable-Recipes--amp--Hints-Relating-to-the-Toilette_12327
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montefiore, Judith Cohen, Lady
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4317'
     url: http://www.gutenberg.org/2009/agents/4317
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12327#The-Jewish-Manualof-Valuable-Recipes--amp--Hints-Relating-to-the-Toilette
 gutenberg_bookshelf:
 - Judaism
 - Cookery
